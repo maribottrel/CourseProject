@@ -30,7 +30,7 @@ Package 'dplyr' was used.
 - Activity:
 Each person performed six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
--Features: 
+- Features: 
 Measures corresponding to each subject and activity. 
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
