@@ -1,4 +1,4 @@
-#Code Book
+# Code Book
 
 This code book shows the variables and summarization of the dataset.
 
@@ -25,15 +25,12 @@ The total_data were made by the training and testing data joined together. It ha
 Package 'dplyr' was used.
 
 - Subject: 
-==========
  Each number correspond to the 30 volunteers that participate on this experiment.
 
 - Activity:
-===========
 Each person performed six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
 -Features: 
-==========
 Measures corresponding to each subject and activity. 
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
@@ -96,7 +93,6 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 Notes: 
-======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
