@@ -22,6 +22,7 @@ Information of the total tidy dataset:
 ======================================
 
 The total_data were made by the training and testing data joined together. It has three dimensions: subject, activitys and features.
+Package 'dplyr' was used.
 
 - Subject: 
 ==========
@@ -98,3 +99,10 @@ Notes:
 ======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
+
+
+Information of the summarized tidy dataset:
+============================================
+
+The tidy_data was the same attributes as the full data. But it was calculated the average of each feature for each activity and each subject.
+
